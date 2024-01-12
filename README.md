@@ -92,6 +92,13 @@ git submodule update
 
 ### Build
 
+#### Easy Scripts
+```shell
+sh init.sh
+sh build_cuda.sh
+```
+
+
 #### Build from scratch
 
 ```shell
